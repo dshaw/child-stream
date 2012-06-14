@@ -1,0 +1,31 @@
+{
+  "name": "child-stream",
+  "version": "0.0.0",
+  "description": "Child process read stream",
+  "keywords": [
+    "child_process",
+    "stream",
+    "readstream"
+  ],
+  "author": "Daniel D. Shaw <dshaw@dshaw.com> (http://dshaw.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dshaw/child-stream"
+  },
+  "bugs": {
+    "url": "http://github.com/dshaw/child-stream/issues"
+  },
+  "license": "MIT",
+  "main": "child-stream",
+  "scripts": {
+    "test": "node ./test/child-stream.test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.2.5"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
