@@ -1,6 +1,6 @@
 {
   "name": "child-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Child process read stream",
   "keywords": [
     "child_process",
@@ -10,7 +10,7 @@
   "author": "Daniel D. Shaw <dshaw@dshaw.com> (http://dshaw.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dshaw/child-stream"
+    "url": "git://github.com/dshaw/child-stream.git"
   },
   "bugs": {
     "url": "http://github.com/dshaw/child-stream/issues"
